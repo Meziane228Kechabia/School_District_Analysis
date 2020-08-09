@@ -20,3 +20,4 @@ My analysis on the school’s district Data.
 •	Overall passing (district schools): the district schools were not affected by the changes to Thomas High School and this is due to Thomas High School is a charter school
 ### Major changes to the school district analysis after reading and math scores have been replaced, all of Thomas High School:
 passing math percentage, passing reading percentage, passing overall percentage and passing score percentage on charter schools have been changed from a high to low percentage.
+### Please consider screenshots output added to my repository as .png files.
